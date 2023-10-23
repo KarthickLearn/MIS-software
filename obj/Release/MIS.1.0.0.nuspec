@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>MIS</id>
+    <version>1.0.0</version>
+    <authors>MIS</authors>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework="net6.0-windows7.0">
+        <dependency id="FontAwesome.Sharp" version="5.15.4" exclude="Build,Analyzers" />
+        <dependency id="Selenium.WebDriver" version="4.2.0" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+    <frameworkReferences>
+      <group targetFramework="net6.0-windows7.0">
+        <frameworkReference name="Microsoft.WindowsDesktop.App.WindowsForms" />
+      </group>
+    </frameworkReferences>
+  </metadata>
+  <files>
+    <file src="C:\Users\Karthick B\source\repos\MIS\bin\Release\net6.0-windows\MIS.runtimeconfig.json" target="lib\net6.0-windows7.0\MIS.runtimeconfig.json" />
+    <file src="C:\Users\Karthick B\source\repos\MIS\bin\Release\net6.0-windows\MIS.dll" target="lib\net6.0-windows7.0\MIS.dll" />
+  </files>
+</package>

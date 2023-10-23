@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "kmwmZXnC4eqYLGannDleCktRHKSAwpfQ6dSUdXYfFxpUN90sY+cEua55BuMhEXFlrmqeC5en8WczvPufCds0vg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Karthick B\\source\\repos\\MIS\\MIS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Karthick B\\.nuget\\packages\\fontawesome.sharp\\5.15.4\\fontawesome.sharp.5.15.4.nupkg.sha512",
+    "C:\\Users\\Karthick B\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\Karthick B\\.nuget\\packages\\selenium.webdriver\\4.2.0\\selenium.webdriver.4.2.0.nupkg.sha512"
+  ],
+  "logs": []
+}

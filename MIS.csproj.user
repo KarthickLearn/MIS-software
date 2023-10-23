@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="App Vs Not App.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AR Backlog.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Box2StepVerification.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Completion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Database.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="File Converstion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Final.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MIS_Report.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Month End Report Source File Download.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Openfilefolder.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Paid In 30 Days.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Primay Status.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Rename Source File.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Tat_V6_CG.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Tracker.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
